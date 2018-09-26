@@ -1,3 +1,3 @@
 # Publish Library
 
-> this repo try to publish repository
+> this repository try to publish library
